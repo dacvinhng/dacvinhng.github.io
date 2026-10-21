@@ -4,9 +4,9 @@ title: Shootile Privacy Policy
 
 # Shootile Privacy Policy
 
-Effective date: October 7, 2026
+Effective date: October 21, 2026
 
-This Privacy Policy explains how information is handled in the Shootile game for iPhone, on our website at dacvinhng.github.io, and when you contact us for support.
+This Privacy Policy explains how information is handled in the Shootile game for iPhone and Android, on our website at dacvinhng.github.io, and when you contact us for support.
 
 Shootile is developed and operated by **Nguyen Dac Vinh** ("we", "us", or "our"). We are responsible for the processing for which we determine the purposes and means. For questions or privacy requests, contact **[weyestudio@gmail.com](mailto:weyestudio@gmail.com)**.
 
@@ -14,24 +14,24 @@ Shootile is developed and operated by **Nguyen Dac Vinh** ("we", "us", or "our")
 
 - You do not need to create a Shootile account to play.
 - Game progress and settings are saved locally. We do not operate a server that stores or synchronizes your complete game save.
-- Google AdMob provides advertising, and Apple provides purchases and Game Center. These services process information as explained below.
+- Google AdMob provides advertising on both platforms. Apple provides purchases and Game Center on iPhone; Google Play Games provides sign-in, leaderboards and achievements on Android. These services process information as explained below.
 - If you email us, we receive and retain the information in your support correspondence as needed to handle it.
 - Visiting the website sends technical information to its hosting and content-delivery providers.
 - Deleting the app removes its local data but does not automatically erase support correspondence, backups, or records held by Apple, Google, or other service providers.
 
 ## 2. Information stored on your device
 
-Shootile stores information needed to run the game, including progress, scores, Coins and Rubies, unlocked content, settings, reminder preferences, recent play times, purchase-entitlement information, and records used to avoid delivering a transaction more than once. Results waiting to be submitted to Game Center may also be stored locally.
+Shootile stores information needed to run the game, including progress, scores, Coins and Rubies, unlocked content, settings, reminder preferences, recent play times, purchase-entitlement information where applicable, and records used to avoid delivering a transaction more than once. Results waiting to be submitted to Game Center or Google Play Games may also be stored locally. On Android, the app stores a Play Games player identifier with its pending score and achievement progress to keep submissions for different platform accounts separate. Friendly challenge invitations and their local results are also stored on the device.
 
 We do not receive a complete copy of this local save on a developer-operated server. Particular information is processed by Apple or Google for the services described below, or by us if you voluntarily include it in a support request.
 
-App data may be included in device backups, depending on your settings and Apple's backup services. Shootile does not provide a separate developer-operated cloud-save account.
+On iPhone, app data may be included in device backups, depending on your settings and Apple's backup services. The current Android build disables Android app-data backup. Copies you create separately are managed separately. Shootile does not provide a separate developer-operated cloud-save account.
 
 ## 3. Advertising and consent
 
 Shootile uses Google AdMob and Google's User Messaging Platform (UMP). Depending on permissions, settings, and the services used, Google may process:
 
-- Device identifiers, including the advertising identifier (IDFA) when permitted, and app- or developer-scoped identifiers.
+- Device identifiers, including IDFA on iPhone or the Android advertising ID when available and permitted, and app- or developer-scoped identifiers.
 - IP address and an approximate location inferred from it.
 - Interactions such as launches, taps, and video views.
 - Ads shown and interactions with those ads.
@@ -41,41 +41,59 @@ These services use information for ad delivery and measurement, advertising anal
 
 ### Apple's tracking permission
 
-Where applicable, Shootile requests permission through Apple's App Tracking Transparency prompt before accessing IDFA or engaging in tracking that requires that permission. The prompt may not appear if a choice has already been made or your device or account restricts tracking requests.
+On iPhone, where applicable, Shootile requests permission through Apple's App Tracking Transparency prompt before accessing IDFA or engaging in tracking that requires that permission. The prompt may not appear if a choice has already been made or your device or account restricts tracking requests.
 
 You can manage permission in **iOS Settings > Privacy & Security > Tracking**. Allowing tracking is not required to play. Denying tracking does not stop all processing: information may still be processed for permitted purposes, subject to applicable law and platform rules.
+
+### Android advertising controls
+
+Android does not use Apple's App Tracking Transparency prompt. You can manage the Android advertising identifier and available advertising privacy controls in your device's Android or Google settings; the available controls and menu names depend on the device and Android version. Regional consent and opt-out choices are also available through UMP as described below. The Android app does not request precise-location permission for advertising.
 
 ### Regional advertising choices
 
 UMP is used to present applicable advertising privacy messages. Depending on your region, available choices may include consent choices, withdrawal of consent, or opt-outs relating to targeted advertising, sale, or sharing of personal information.
 
-Where UMP requires a privacy-options entry point, **PRIVACY** on the main menu opens the available options. Apple's tracking permission and these regional choices are separate controls. Choices may need to be managed again after reinstalling the app or changing devices.
+Where UMP requires a privacy-options entry point, **PRIVACY** on the main menu opens the available options on iPhone. On Android, open **Settings > i > AD PRIVACY OPTIONS**. The Android entry point appears when UMP reports that privacy options are required. Device advertising controls and these regional choices are separate controls. Choices may need to be managed again after reinstalling the app or changing devices.
 
 Withdrawing consent affects future processing based on that consent; it does not make earlier lawful processing unlawful or automatically delete previously collected information. If you cannot access an option or need help, contact us.
 
 ### Ad removal and rewarded ads
 
-Remove Interstitial Ads, including the equivalent benefit in the Cosmic Premium Bundle, disables automatic interstitial ads. Optional rewarded ads remain available. This purchase is not a promise that all advertising services or advertising-related data processing are disabled.
+On iPhone, Remove Interstitial Ads, including the equivalent benefit in the Cosmic Premium Bundle, disables automatic interstitial ads. Optional rewarded ads remain available. This purchase is not a promise that all advertising services or advertising-related data processing are disabled. The current Android version has no in-app purchase flow. On both platforms, rewarded ads are an optional choice to continue an eligible run; the in-game reward is granted only after the advertising service confirms it was earned.
 
 We configure ad-content restrictions, but cannot guarantee the content of every third-party ad. Please report inappropriate ads through our [Support page](support.html).
 
 ## 4. Purchases through Apple
 
-Apple processes App Store purchases. Shootile uses StoreKit to verify and deliver purchases, determine current entitlements, prevent duplicate delivery, and restore eligible non-consumable purchases. This involves information such as product identifiers, transaction identifiers, and purchase or entitlement status.
+On iPhone, Apple processes App Store purchases. Shootile uses StoreKit to verify and deliver purchases, determine current entitlements, prevent duplicate delivery, and restore eligible non-consumable purchases. This involves information such as product identifiers, transaction identifiers, and purchase or entitlement status.
 
 We do not receive your full payment-card details or Apple Account password through Shootile. If you send transaction information to support, we receive the information you choose to provide. Apple's transaction records are separate from Shootile's local records and are not erased by deleting the app.
 
 See the [Apple Privacy Policy](https://www.apple.com/legal/privacy/).
 
-## 5. Game Center
+## 5. Game Center and Google Play Games
+
+### Game Center on iPhone
 
 When you use Game Center, Shootile submits relevant scores, achievements, challenges, and activity progress to Apple's service. Your Game Center profile and gameplay results may be visible to other players according to the feature and your Apple settings.
 
 Apple manages Game Center authentication; Shootile does not receive your Apple Account password. You can manage Game Center in iOS Settings. Game Center does not synchronize your complete Shootile save. Apple's processing is described in the [Apple Privacy Policy](https://www.apple.com/legal/privacy/).
 
+### Google Play Games on Android
+
+When you use Google Play Games, Google handles platform authentication and processes the relevant Play Games account and profile information. Shootile uses the Play Games player identifier and submits relevant leaderboard scores and achievement progress to Google's service. Your Play Games profile, scores and achievements may be visible to other players according to the feature and your Google settings. Shootile does not receive your Google Account password. Google Play Games does not synchronize your complete Shootile save in the current Android version.
+
+You can manage your Play Games profile and associated privacy choices through Google's Play Games settings. Google's processing is described in the [Google Privacy Policy](https://policies.google.com/privacy).
+
+### Friendly challenge sharing on Android
+
+If you choose to invite a friend, Shootile opens Android's share sheet with a challenge code and link, target score, game mode and challenge period. The app you select handles sharing and any recipient information under its own privacy practices. Shootile does not read your contacts or send invitations automatically. The code does not contain a Play Games player identifier, account name or email address. Anyone who receives or is forwarded the code can read its challenge details.
+
+Received invitations and the comparison with your result are handled locally. These friendly challenges are not a developer-hosted multiplayer or opponent-verification service, and Shootile does not automatically send your result back to the inviter.
+
 ## 6. Local notifications
 
-If you enable reminders, Shootile uses locally stored preferences and play information to schedule notifications on your device. We do not operate a remote push-notification server for these reminders. You can disable them in the game's reminder settings or in iOS notification settings.
+If you enable reminders, Shootile uses locally stored preferences and play information to schedule notifications on your device. We do not operate a remote push-notification server for these reminders. You can disable them in the game's reminder settings or in the notification settings for Shootile on iPhone or Android.
 
 ## 7. Support communications
 
@@ -103,7 +121,7 @@ We do not substitute legitimate interests for consent where consent is required.
 
 ## 10. Who may receive information
 
-Information is received by the providers involved in the features you use: Google for advertising, consent tools, and support email; Apple for purchases, Game Center, and device services; and GitHub and Cloudflare for website delivery. Their roles depend on the service and applicable terms; they do not all act solely on our instructions.
+Information is received by the providers involved in the features you use: Google for advertising, consent tools, Google Play Games on Android, and support email; Apple for purchases, Game Center, and device services on iPhone; and GitHub and Cloudflare for website delivery. If you share an Android challenge, the sharing app you select and your chosen recipients receive the invitation details. Their roles depend on the service and applicable terms; they do not all act solely on our instructions.
 
 Relevant support information may be shared with a service provider when necessary to investigate your issue. We seek to limit such disclosures to the information needed.
 
@@ -135,7 +153,7 @@ We will address requests within applicable deadlines and explain lawful limitati
 
 ## 14. Children
 
-Shootile is intended for a general audience and is not directed to children under 13. Local laws may provide additional protections or require parental consent for older children. An App Store age rating describes content suitability; it does not establish permission for personal-data processing.
+Shootile is intended for a general audience and is not directed to children under 13. Local laws may provide additional protections or require parental consent for older children. An app-store age rating describes content suitability; it does not establish permission for personal-data processing.
 
 We do not knowingly collect children's personal information in circumstances requiring parental consent without that consent. If you believe a child has provided information that should not have been collected, contact us. Provide only the details necessary to identify the concern. We will investigate and take steps required by applicable law, including deleting information we control or coordinating with the relevant provider as appropriate.
 
