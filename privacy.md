@@ -4,7 +4,7 @@ title: Shootile Privacy Policy
 
 # Shootile Privacy Policy
 
-Effective date: October 21, 2026
+Effective date: October 28, 2026
 
 This Privacy Policy explains how information is handled in the Shootile game for iPhone and Android, on our website at dacvinhng.github.io, and when you contact us for support.
 
@@ -14,7 +14,7 @@ Shootile is developed and operated by **Nguyen Dac Vinh** ("we", "us", or "our")
 
 - You do not need to create a Shootile account to play.
 - Game progress and settings are saved locally. We do not operate a server that stores or synchronizes your complete game save.
-- Google AdMob provides advertising on both platforms. Apple provides purchases and Game Center on iPhone; Google Play Games provides sign-in, leaderboards and achievements on Android. These services process information as explained below.
+- Google AdMob provides advertising on both platforms. Apple provides purchases and Game Center on iPhone; Google Play provides purchases and Google Play Games provides sign-in, leaderboards and achievements on Android. These services process information as explained below.
 - If you email us, we receive and retain the information in your support correspondence as needed to handle it.
 - Visiting the website sends technical information to its hosting and content-delivery providers.
 - Deleting the app removes its local data but does not automatically erase support correspondence, backups, or records held by Apple, Google, or other service providers.
@@ -59,17 +59,21 @@ Withdrawing consent affects future processing based on that consent; it does not
 
 ### Ad removal and rewarded ads
 
-On iPhone, Remove Interstitial Ads, including the equivalent benefit in the Cosmic Premium Bundle, disables automatic interstitial ads. Optional rewarded ads remain available. This purchase is not a promise that all advertising services or advertising-related data processing are disabled. The current Android version has no in-app purchase flow. On both platforms, rewarded ads are an optional choice to continue an eligible run; the in-game reward is granted only after the advertising service confirms it was earned.
+On iPhone, Remove Interstitial Ads, including the equivalent benefit in the Cosmic Premium Bundle, disables automatic interstitial ads. Optional rewarded ads remain available. This purchase is not a promise that all advertising services or advertising-related data processing are disabled. On Android, Remove Interstitial Ads and the equivalent benefit in Cosmic Premium disable automatic interstitial ads; optional rewarded ads remain available. On both platforms, rewarded ads are an optional choice to continue an eligible run; the in-game reward is granted only after the advertising service confirms it was earned.
 
 We configure ad-content restrictions, but cannot guarantee the content of every third-party ad. Please report inappropriate ads through our [Support page](support.html).
 
-## 4. Purchases through Apple
+## 4. Purchases through Apple and Google Play
 
 On iPhone, Apple processes App Store purchases. Shootile uses StoreKit to verify and deliver purchases, determine current entitlements, prevent duplicate delivery, and restore eligible non-consumable purchases. This involves information such as product identifiers, transaction identifiers, and purchase or entitlement status.
 
 We do not receive your full payment-card details or Apple Account password through Shootile. If you send transaction information to support, we receive the information you choose to provide. Apple's transaction records are separate from Shootile's local records and are not erased by deleting the app.
 
 See the [Apple Privacy Policy](https://www.apple.com/legal/privacy/).
+
+### Google Play purchases on Android
+
+Google Play processes purchases on Android. Shootile uses Google Play Billing to identify products and purchase status, verify purchases, deliver Rubies and permanent upgrades, prevent duplicate delivery, and restore eligible purchases. The app stores purchase-related records locally, including a hash of the purchase token and entitlement information. Google processes purchase and payment information under its own privacy practices; Shootile does not receive your full payment-card details or Google Account password. Deleting the app does not erase Google's transaction records. See the [Google Privacy Policy](https://policies.google.com/privacy/).
 
 ## 5. Game Center and Google Play Games
 
@@ -121,7 +125,7 @@ We do not substitute legitimate interests for consent where consent is required.
 
 ## 10. Who may receive information
 
-Information is received by the providers involved in the features you use: Google for advertising, consent tools, Google Play Games on Android, and support email; Apple for purchases, Game Center, and device services on iPhone; and GitHub and Cloudflare for website delivery. If you share an Android challenge, the sharing app you select and your chosen recipients receive the invitation details. Their roles depend on the service and applicable terms; they do not all act solely on our instructions.
+Information is received by the providers involved in the features you use: Google for advertising, consent tools, Google Play purchases and Google Play Games on Android, and support email; Apple for purchases, Game Center, and device services on iPhone; and GitHub and Cloudflare for website delivery. If you share an Android challenge, the sharing app you select and your chosen recipients receive the invitation details. Their roles depend on the service and applicable terms; they do not all act solely on our instructions.
 
 Relevant support information may be shared with a service provider when necessary to investigate your issue. We seek to limit such disclosures to the information needed.
 
